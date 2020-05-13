@@ -23,4 +23,4 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: ClusterCount
-NUMBER OF CLUSTERS (plugins/ClusterCount/example//clusters.csv): 35
+NUMBER OF CLUSTERS (plugins/ClusterCount/example/clusters.csv, THRESHOLD=5): 26

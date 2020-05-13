@@ -1,2 +1,2 @@
 Prefix plugins/ClusterCount/example/
-Plugin ClusterCount inputfile clusters.csv outputfile none
+Plugin ClusterCount inputfile parameters.txt outputfile none
