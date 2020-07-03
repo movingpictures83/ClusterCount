@@ -2,7 +2,7 @@
 # Language: Python
 # Input: TXT
 # Output: none (screen, number of clusters)
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 
 PluMA plugin that takes a CSV file of clusters as input
 and outputs the number of clusters that are at least a certain
